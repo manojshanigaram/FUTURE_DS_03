@@ -1,0 +1,24 @@
+# Core Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Data Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+wordcloud==1.9.3
+
+# Natural Language Processing
+nltk==3.9.1
+textblob==0.18.0
+
+# Optional (for running in Jupyter/Colab)
+jupyter==1.1.1
+notebook==7.2.2
+
+
+
+✅ Notes:
+
+Versions are stable as of 2025 and work smoothly in Google Colab or local Python 3.10+ environments.
+
+If you want to keep it simpler, you can remove the version numbers — but including them ensures consistent behavior everywhere.
